@@ -1,0 +1,4 @@
+"Module Name","Core AI Task","Web Platform Integration"
+"1. Orbital-Track","Time-Series Anomaly Detectionon satellite positional and brightness data.","Feeds theAnomaly Feedwith real-time alerts. Highlights at-risk objects on theGlobe View."
+"2. Exo-Scout","Time-Series Anomaly Detectionon stellar light curves. (YourExo-Detectorproject).","Populates a dedicated, public-facing section of theAnalytics Dashboard, showcasing discoveries."
+"3. Terra-Sight","Image Segmentation & Change Detectionon satellite imagery.","Allows users to draw a box on a map in theAnalytics Dashboardand get alerts on changes (e.g., deforestation, new construction)."
