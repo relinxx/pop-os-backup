@@ -1,0 +1,2 @@
+com.slack.Slack	Slack
+md.obsidian.Obsidian	Obsidian
